@@ -1,0 +1,41 @@
+name: FriendEssentials
+authors:
+  - JxstColin
+version: 1.0
+main: eu.jxstcolin.main.Main
+
+commands:
+  gamemode:
+    aliases:
+      - gm
+  fly:
+  feed:
+  heal:
+  teleport:
+    aliases:
+      - tp
+  teleporthere:
+    aliases:
+      - tphere
+  hat:
+  suicide:
+  invsee:
+  workbench:
+    aliases:
+      - wb
+      - craft
+  enderchest:
+    aliases:
+      - ec
+  repair:
+  skull:
+    aliases:
+      - head
+  getposition:
+    aliases:
+      - getpos
+  night:
+  day:
+  clearchat:
+    aliases:
+      - cc
